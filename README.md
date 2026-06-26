@@ -1,2 +1,2 @@
 # Smart-File-Organizer-Pro
-A Python project to automate file organization using file handling and exception handling.
+A professional Python desktop application that automatically organizes files into categorized folders using a modern GUI.
